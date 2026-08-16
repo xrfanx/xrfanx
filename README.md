@@ -5,12 +5,10 @@
 </a>
 
 <h1>XRFANX</h1>
-### Front-End Developer ⚛️
 
 ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+Developer;JavaScript+Developer;McLaren+Fan+%F0%9F%8F%8E%EF%B8%8F)
 
 <br>
-<h3>FRONT-END DEVELOPER</h3>
 
 <p><b>Speed <font color="#ff8a00">on the track.</font> Focus <font color="#ff8a00">in the code.</font></b></p>
 
