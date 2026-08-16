@@ -87,7 +87,7 @@ A modern e-commerce shopping cart built with
 </p>
 
 <p>
-<a href="https://github.com/xrfanx/React-XrfanShopping-Cart">
+<a href="https://github.com/xrfanx/Xrfan-CMS-Panel">
   <img src="https://img.shields.io/badge/VIEW_PROJECT-9B4DFF?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
 </a>
 </p>
