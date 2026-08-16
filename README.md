@@ -79,11 +79,11 @@ while (alive) {
 
 <h2>🚀 FEATURED PROJECT</h2>
 
-<h3>React Shopping Cart</h3>
+<h3>React CMS panel</h3>
 
 <p>
-A modern e-commerce shopping cart built with
-<b>React</b>, <b>Context API</b> and <b>Tailwind CSS</b>.
+A modern CMS panel with
+<b>React</b>, <b>MUI</b> and <b>Tailwind CSS</b>.
 </p>
 
 <p>
