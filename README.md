@@ -104,45 +104,7 @@ A modern e-commerce shopping cart built with
 </tr>
 </table>
 
----
 
-<div align="center">
-
-<h2>📊 GITHUB STATS</h2>
-
-</div>
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-<h3>XRFANX's GitHub Stats</h3>
-
-<img src="https://github-readme-stats.vercel.app/api?username=xrfanx&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=ffffff&icon_color=a855f7&ring_color=a855f7&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats">
-
-</td>
-
-<td width="33%" align="center">
-
-<h3>TOP LANGUAGES</h3>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrfanx&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=ffffff&langs_count=6" width="100%" alt="Top Languages">
-
-</td>
-
-<td width="34%" align="center">
-
-<h3>CONTRIBUTION GRAPH</h3>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xrfanx&bg_color=0d1117&color=c084fc&line=a855f7&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph">
-
-</td>
-
-</tr>
-</table>
-
----
 
 <div align="center">
 
