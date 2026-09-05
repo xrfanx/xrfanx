@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080d,50:6f20b8,100:111827&height=160&section=header&text=XRFANX&fontSize=65&fontColor=ffffff&fontAlignY=55&animation=twinkling" width="100%" alt="XRFANX">
 </a>
 
-<h1>XRFANX</h1>
+<h1>Erfan Roozbahani</h1>
 
 ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+Developer;JavaScript+Developer)
 
